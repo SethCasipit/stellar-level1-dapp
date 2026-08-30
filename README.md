@@ -9,11 +9,11 @@
 
 | 1. Wallet Connected | 2. Balance Displayed |
 | :---: | :---: |
-| ![Wallet Connected](./public/Screenshots/connect-wallet.png.png) | ![Balance Displayed](./public/Screenshots/balance.png.png) |
+| ![Wallet Connected](/public/Screenshots/connect-wallet.png.png) | ![Balance Displayed](/public/Screenshots/balance.png.png) |
 
 | 3. Successful Testnet Transaction | 4. Transaction Result Shown |
 | :---: | :---: |
-| ![Transaction](./public/Screenshots/transaction.png.png) | ![Transaction Result](./public/Screenshots/result.png.png) |
+| ![Transaction](/public/Screenshots/transaction.png.png) | ![Transaction Result](/public/Screenshots/result.png.png) |
 
 ---
 
