@@ -1,15 +1,19 @@
 # 🚀 Stellar Testnet Payment dApp
 
 ## 🌟 Project Overview
-**Stellar Testnet Payment dApp** is a lightweight decentralized application built on the Stellar Network that allows users to connect their Freighter wallet, view their XLM balance, and execute native testnet payment transactions.
+**Stellar Testnet Payment dApp** is a lightweight decentralized application built on the Stellar Network that allows users to connect their Freighter wallet, view their XLM balance, send native testnet payment transactions, and view transaction results on StellarExpert.
 
 ---
 
 ## 📸 Screenshots
 
-| Wallet Connected & Balance | Successful Testnet Transaction & Result |
+| 1. Wallet Connected | 2. Balance Displayed |
 | :---: | :---: |
-| ![Wallet Connected](./public/screenshots/dashboard.png) | ![Transaction Result](./public/screenshots/transaction-success.png) |
+| ![Wallet Connected](./public/screenshots/connect-wallet.png) | ![Balance Displayed](./public/screenshots/balance.png) |
+
+| 3. Successful Testnet Transaction | 4. Transaction Result Shown |
+| :---: | :---: |
+| ![Transaction](./public/screenshots/transaction.png) | ![Transaction Result](./public/screenshots/result.png) |
 
 ---
 
